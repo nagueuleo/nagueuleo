@@ -17,7 +17,7 @@
 <div>
   <p align="right">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScBkJaiDPfhsx_DPTjN_BlMDRcqqVBjPUBAjfS3RlnxjYXxLw/viewform?usp=dialog" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-nagueu%20Fonkui-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Contact-nagueu%20Nagueu-blue?style=for-the-badge">
     </a>
   </p>
 </div>
