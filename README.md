@@ -16,8 +16,8 @@
 </div>
 <div>
   <p align="right">
-    <a href="https://forms.gle/L31yDHKAx9y9tyyQ8" target="_blank">
-      <img src="https://img.shields.io/badge/Contact-William%20Fonkui-blue?style=for-the-badge">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScBkJaiDPfhsx_DPTjN_BlMDRcqqVBjPUBAjfS3RlnxjYXxLw/viewform?usp=dialog" target="_blank">
+      <img src="https://img.shields.io/badge/Contact-nagueu%20Fonkui-blue?style=for-the-badge">
     </a>
   </p>
 </div>
