@@ -23,14 +23,14 @@
 </div>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=nagueuleo&color=blue)
 
 
-## 👋 Hi, I'm William Fonkui!  
+## 👋 Hi, I'm Nagueu Lionel!  
 
-💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**  
+💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst | Power BI**  
 
-🌱 Currently studying **Data & AI** at **École IT Orléans**  
+🌱 Currently studying **Data & AI** at **École IT Valenciennes**  
 🚀 Looking for an **apprenticeship** in Data Science  
 
 ---
@@ -51,7 +51,7 @@
 ### 🚧 What I'm Working On
 - 🔥 Improving my **Machine Learning** skills
 - 📊 Building **interactive dashboards with Power BI**
-- ☁️ Learning **Azure & Databricks**
+- ☁️ Learning **Data analyst**
 
 ---
 
@@ -111,17 +111,17 @@
 
 | 🚀 Project | 📝 Description | 🛠 Technologies |
 |-----------|-------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+| 🛒 [Pr-t-Bancaire ](https://https://github.com/nagueuleo/Pr-t-Bancaire) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
+| 📈 [Trading](https://https://github.com/nagueuleo/Trading) | trading with streamlit and flask
+| 🎣 [Climate prediction](https://https://github.com/nagueuleo/Lille-climate-change) | Access to weather data via the NASA app and precipitation prediction | jupyter|python|Deep learning |
+| 🤖 [Portfolio](https://github.com/nagueuleo/MonPortfolio) | portfolio
 
 ---
 
 ### 📄 CV
 
 📥 **Download My CV (PDF)**:  
-[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf)
+[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/nagueuleo/nagueuleo/blob/main/CV_NAGUEU_DJAMBONG.pdf)
 
 ---
 
