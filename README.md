@@ -118,49 +118,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>My Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      padding: 20px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      background: white;
-    }
-    th, td {
-      padding: 12px 15px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-    }
-    th {
-      background-color: #4CAF50;
-      color: white;
-      font-weight: bold;
-    }
-    tr:hover {
-      background-color: #f1f1f1;
-    }
-    a {
-      color: #1a73e8;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .project-icon {
-      font-size: 1.2em;
-    }
-    .tech-stack {
-      font-family: monospace;
-      font-size: 0.9em;
-      color: #555;
-    }
-  </style>
 </head>
 <body>
 
@@ -207,7 +164,7 @@
   </table>
 
 </body>
-</html>                                        |
+</html>                                    
 
 ---
 
