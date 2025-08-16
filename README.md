@@ -112,12 +112,102 @@
 
 🚀 **Explore my Data Science projects:**
 
-| 🚀 Project                                                                         | 📝 Description                                                       | 🛠 Technologies                             |
-| ---------------------------------------------------------------------------------- | 
-| 🛒 [Pr-t-Bancaire ](https://https://github.com/nagueuleo/Pr-t-Bancaire)            | AI-powered price prediction chatbot for airline tickets.             | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Trading](https://https://github.com/nagueuleo/Trading)                         | trading with streamlit and flask                                     |
-| 🎣 [Climate prediction](https://https://github.com/nagueuleo/Lille-climate-change) | Access to weather data via the NASA app and precipitation prediction | jupyter                                    | python | Deep learning |
-| 🤖 [Portfolio](https://github.com/nagueuleo/MonPortfolio)                          | portfolio                                                            |
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Projects</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      background: white;
+    }
+    th, td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+      font-weight: bold;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .project-icon {
+      font-size: 1.2em;
+    }
+    .tech-stack {
+      font-family: monospace;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🚀 My Projects</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+        <th>Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="project-icon">
+          🛒 <a href="https://github.com/nagueuleo/Pr-t-Bancaire" target="_blank">Pr-t-Bancaire</a>
+        </td>
+        <td>AI-powered price prediction chatbot for airline tickets.</td>
+        <td class="tech-stack">Python, Pandas, Jupyter Notebook, Power BI</td>
+      </tr>
+      <tr>
+        <td class="project-icon">
+          📈 <a href="https://github.com/nagueuleo/Trading" target="_blank">Trading</a>
+        </td>
+        <td>Trading with Streamlit and Flask.</td>
+        <td class="tech-stack">Python, Streamlit, Flask</td>
+      </tr>
+      <tr>
+        <td class="project-icon">
+          🎣 <a href="https://github.com/nagueuleo/Lille-climate-change" target="_blank">Climate Prediction</a>
+        </td>
+        <td>Access to weather data via the NASA API and precipitation prediction.</td>
+        <td class="tech-stack">Python, Jupyter, Deep Learning</td>
+      </tr>
+      <tr>
+        <td class="project-icon">
+          🤖 <a href="https://github.com/nagueuleo/MonPortfolio" target="_blank">Portfolio</a>
+        </td>
+        <td>Personal portfolio website.</td>
+        <td class="tech-stack">HTML, CSS, JavaScript</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>                                        |
 
 ---
 
