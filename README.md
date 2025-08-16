@@ -113,7 +113,7 @@
 🚀 **Explore my Data Science projects:**
 
 | 🚀 Project                                                                         | 📝 Description                                                       | 🛠 Technologies                             |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------ | ------ | ------------- |
+| ---------------------------------------------------------------------------------- | 
 | 🛒 [Pr-t-Bancaire ](https://https://github.com/nagueuleo/Pr-t-Bancaire)            | AI-powered price prediction chatbot for airline tickets.             | Python, Pandas, Jupyter Notebook, Power BI |
 | 📈 [Trading](https://https://github.com/nagueuleo/Trading)                         | trading with streamlit and flask                                     |
 | 🎣 [Climate prediction](https://https://github.com/nagueuleo/Lille-climate-change) | Access to weather data via the NASA app and precipitation prediction | jupyter                                    | python | Deep learning |
