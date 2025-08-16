@@ -9,7 +9,7 @@
 <!-- Button to download CV (placed top-right) -->
 <div>
 <p align="right">
-  <a href="https://github.com/nagueuleo/nagueuleo/blob/main/CV_NAGUEU_DJAMBONG.pdf" target="_blank">
+  <a href="https://github.com/nagueuleo/CV_NAGUEU_DJAMBONG.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
@@ -22,20 +22,19 @@
   </p>
 </div>
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=nagueuleo&color=blue)
 
+## 👋 Hi, I'm Nagueu Lionel!
 
-## 👋 Hi, I'm Nagueu Lionel!  
-
-💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst | Power BI**  
+💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst | Power BI | Power automate**
 
 🌱 Currently studying **Data & AI** at **École IT Valenciennes**  
-🚀 Looking for an **apprenticeship** in Data Science  
+🚀 Looking for an **apprenticeship** in Data Science
 
 ---
 
 ### 🚀 About Me
+
 - 🔍 Passionate about AI, Data Science, and transforming data into insights.
 - 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
 - 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**.
@@ -43,19 +42,22 @@
 
 ---
 
-### 💡 Inspiration  
-📌 *"Without data, you’re just another person with an opinion."* – W. Edwards Deming  
+### 💡 Inspiration
+
+📌 _"Without data, you’re just another person with an opinion."_ – W. Edwards Deming
 
 ---
 
 ### 🚧 What I'm Working On
+
 - 🔥 Improving my **Machine Learning** skills
 - 📊 Building **interactive dashboards with Power BI**
-- ☁️ Learning **Data analyst**
+- ☁️ Learning **Data analyst and Power automate**
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack
+
 <table>
   <tr>
     <th>Programming & Scripting</th>
@@ -106,15 +108,16 @@
 
 ---
 
-### 📂 Featured Projects  
-🚀 **Explore my Data Science projects:**  
+### 📂 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠 Technologies |
-|-----------|-------------|----------------|
-| 🛒 [Pr-t-Bancaire ](https://https://github.com/nagueuleo/Pr-t-Bancaire) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Trading](https://https://github.com/nagueuleo/Trading) | trading with streamlit and flask
-| 🎣 [Climate prediction](https://https://github.com/nagueuleo/Lille-climate-change) | Access to weather data via the NASA app and precipitation prediction | jupyter|python|Deep learning |
-| 🤖 [Portfolio](https://github.com/nagueuleo/MonPortfolio) | portfolio
+🚀 **Explore my Data Science projects:**
+
+| 🚀 Project                                                                         | 📝 Description                                                       | 🛠 Technologies                             |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------ | ------ | ------------- |
+| 🛒 [Pr-t-Bancaire ](https://https://github.com/nagueuleo/Pr-t-Bancaire)            | AI-powered price prediction chatbot for airline tickets.             | Python, Pandas, Jupyter Notebook, Power BI |
+| 📈 [Trading](https://https://github.com/nagueuleo/Trading)                         | trading with streamlit and flask                                     |
+| 🎣 [Climate prediction](https://https://github.com/nagueuleo/Lille-climate-change) | Access to weather data via the NASA app and precipitation prediction | jupyter                                    | python | Deep learning |
+| 🤖 [Portfolio](https://github.com/nagueuleo/MonPortfolio)                          | portfolio                                                            |
 
 ---
 
@@ -125,7 +128,8 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagueuleo&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagueuleo&layout=compact&theme=radical" alt="Top Languages" />
@@ -141,21 +145,25 @@
 
 ---
 
-### 🤯 Fun Fact  
-🧠 Did you know? Which programming language is named after a comedy group?  
+### 🤯 Fun Fact
+
+🧠 Did you know? Which programming language is named after a comedy group?
+
 <details>
     <summary>Click to reveal the answer</summary>
   🔍 **A:** Python, named after 'Monty Python's Flying Circus'.
 </details>
 
 ---
- 
-### 📩 Contact Me  
+
+### 📩 Contact Me
+
 💬 Reach out via email me directly at **nagueu.datascientist@gmail.com** !
 
 ---
 
-### 🌎 Let's Connect  
+### 🌎 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nagueu-djambong-lionel-perin-7a4a1715a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
@@ -169,5 +177,4 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
 
-🚀 *Excited to collaborate on innovative Data Science & Machine Learning projects!*
-
+🚀 _Excited to collaborate on innovative Data Science & Machine Learning projects!_
