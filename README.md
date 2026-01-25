@@ -211,7 +211,7 @@
 ### 🌎 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagueu-djambong-lionel-perin-7a4a1715a/" target="_blank">
+  <a href="https://www.linkedin.com/in/lionel-perin-nagueu-djambong-7a4a1715a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="https://github.com/nagueuleo" target="_blank">
