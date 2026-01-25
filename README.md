@@ -26,7 +26,7 @@
 
 ## 👋 Hi, I'm Nagueu Lionel!
 
-💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst | Power BI | Power automate**
+💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst BI | Power BI | Power automate**
 
 🌱 Currently studying **Data & AI** at **École IT Valenciennes**  
 🚀 Looking for an **apprenticeship** in Data Science
@@ -52,7 +52,7 @@
 
 - 🔥 Improving my **Machine Learning** skills
 - 📊 Building **interactive dashboards with Power BI**
-- ☁️ Learning **Data analyst and Power automate**
+- ☁️ Learning **Data analyst BI and power automate**
 
 ---
 
