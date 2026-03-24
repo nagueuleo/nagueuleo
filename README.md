@@ -9,7 +9,7 @@
 <!-- Button to download CV (placed top-right) -->
 <div>
 <p align="right">
-  <a href="https://github.com/nagueuleo/nagueuleo/CV_lionel_data_analyst.pdf" target="_blank">
+  <a href="https://github.com/nagueuleo/CV_lionel_data_analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
