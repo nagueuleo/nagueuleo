@@ -177,25 +177,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="./github-stats.svg"
-    alt="GitHub Contributions"
-    width="900"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagueuleo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagueuleo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagueuleo&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagueuleo&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nagueuleo&theme=radical&margin-w=15&no-frame=true"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=nagueuleo&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
