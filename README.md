@@ -153,11 +153,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nagueuleo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagueuleo&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nagueuleo&theme=radical&hide_border=true&disable_animations=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=nagueuleo&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
@@ -165,7 +170,6 @@
 </p>
 
 ---
-
 ### 🤯 Fun Fact
 
 🧠 Did you know? Which programming language is named after a comedy group?
