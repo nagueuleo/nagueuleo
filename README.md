@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Analytics+Engineer;Data+Analyst;Power+BI+Developer;DBT;SQL;Databricks;Snowflake;Python&center=true&width=500&height=50">
 </p>
 
 <!-- Button to download CV (placed top-right) -->
 <div>
 <p align="right">
-  <a href="https://github.com/nagueuleo/CV_lionel_data_analyst.pdf" target="_blank">
+  <a href="https://github.com/nagueuleo/CV_Lionel_Nagueu_Data_Analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
@@ -26,18 +26,18 @@
 
 ## 👋 Hi, I'm Nagueu Lionel!
 
-💻 **Aspiring Data Scientist | Python | Machine Learning | Data analyst BI | Power BI | Power automate**
+💻 **Analytics Enginner| Machine Learning | Data analyst BI | Power BI | DBT |Databricks | Snowflake | SQL | Pyhton | CD/CI**
 
-🌱 Currently studying **Data & AI** at **École IT Valenciennes**  
-🚀 Looking for an **apprenticeship** in Data Science
+🌱 Currently studying **Data & AI** at **INSEEC** 
+🚀 Looking for an **apprenticeship** in Data
 
 ---
 
 ### 🚀 About Me
 
 - 🔍 Passionate about AI, Data Science, and transforming data into insights.
-- 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
-- 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**.
+- 🎯 Focused on **Machine Learning, Orchestration data, and Data Visualization**.
+- 📊 Enthusiastic about **Power BI, Python, DBT, SQL and Cloud Technologies**.
 - 🌍 Open to collaborating on impactful **open-source projects**.
 
 ---
@@ -50,8 +50,8 @@
 
 ### 🚧 What I'm Working On
 
-- 🔥 Improving my **Machine Learning** skills
-- 📊 Building **interactive dashboards with Power BI**
+- 🔥 Improving my **Analytics Engineer and Data analyst BI** skills
+- 📊 Building **interactive orchestration, dashboards with Power BI and databricks**
 - ☁️ Learning **Data analyst BI and power automate**
 
 ---
@@ -63,7 +63,7 @@
     <th>Programming & Scripting</th>
     <th>Data & Analytics</th>
     <th>Web Development</th>
-    <th>Cloud & DevOps</th>
+    <th>Cloud, DevOps & DataOps</th>
     <th>Tools & Version Control</th>
   </tr>
   <tr>
@@ -170,7 +170,7 @@
 ### 📄 CV
 
 📥 **Download My CV (PDF)**:  
-[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/nagueuleo/nagueuleo/blob/main/Lionel_Data_analyst_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/nagueuleo/nagueuleo/blob/main/CV_Lionel_Nagueu_Data_Analyst.pdf)
 
 ---
 
@@ -204,7 +204,7 @@
 
 ### 📩 Contact Me
 
-💬 Reach out via email me directly at **nagueu.datascientist@gmail.com** !
+💬 Reach out via email me directly at **lpnagueudjambong@gmail.com** !
 
 ---
 
@@ -223,4 +223,4 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
 
-🚀 _Excited to collaborate on innovative Data Science & Machine Learning projects!_
+🚀 _Excited to collaborate on innovative Data and machine learning Project!_
